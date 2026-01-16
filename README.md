@@ -32,8 +32,3 @@ images/EkranGörüntüsü2
 
 ##  API Kullanımı
 Projede [DummyJSON](https://dummyjson.com/docs/products) kullanılmıştır.
-
-**Örnek Endpoint:**
-```javascript
-// Vitrin ürünlerini çekmek için
-fetch('[https://dummyjson.com/products?limit=4](https://dummyjson.com/products?limit=4)')
