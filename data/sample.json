@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Offline Demo Ürün 1",
+      "price": 999,
+      "thumbnail": "images/demo2.png",
+      "description": "Bu veriler internet bağlantısı olmadığı için gösterilmektedir.",
+      "category": "demo"
+    },
+    {
+      "id": 2,
+      "title": "Offline Demo Ürün 2",
+      "price": 1500,
+      "thumbnail": "images/demo1.png",
+      "description": "İnternet gelince gerçek veriler yüklenecektir.",
+      "category": "demo"
+    }
+  ]
+}
